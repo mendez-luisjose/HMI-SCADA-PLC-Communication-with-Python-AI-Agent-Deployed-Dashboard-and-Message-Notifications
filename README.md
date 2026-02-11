@@ -6,7 +6,9 @@
 
 Intouch HMI SCADA Simulation with PLC RSLogix 500 Pro Communicated with a Gemini Artificial Intelligent Python Agent and a Dashboard Deployed to the Cloud.
 
-The AI Agent and the Streamlit Dashboard has the access of all the variables from the SCADA. The variables are store on a MongoDB Database. Also it has a Message System Notification, Reporting all the Variables of the SCADA to a Smartphone
+[![HMI SCADA PLC Communication with Python AI Agent, Deployed Dashboard and Message Notifications](./SCADA-Python-Preview-4.png)](https://youtu.be/GhQWOAVu0G8?si=kV-HB2r8LAheMfra)
+
+The AI Agent and the Streamlit Dashboard has the access of all the variables from the SCADA. The variables are store on a MongoDB Database. Also it has a Message System Notification, Reporting all the Variables of the SCADA to a Smartphone.
 
 [![HMI SCADA PLC Communication with Python AI Agent, Deployed Dashboard and Message Notifications](./SCADA-Python-Preview-2.png)](https://youtu.be/GhQWOAVu0G8?si=kV-HB2r8LAheMfra)
 
