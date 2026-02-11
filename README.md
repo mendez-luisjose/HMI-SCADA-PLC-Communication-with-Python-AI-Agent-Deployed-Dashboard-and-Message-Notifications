@@ -1,6 +1,6 @@
-# SCADA Dashboard Simulation with Agent Chatbot and Machine Learning, LSTM Predictions Models
+# HMI SCADA PLC Communication with Python AI Agent, Deployed Dashboard and Message Notifications
 
-[![SCADA Dashboard Simulation with Agent Chatbot and Machine Learning, LSTM Predictions Models](./Dashboard-Preview-1.png)](https://youtu.be/v9rbItWB6hI?si=3dW5NvDJ3hi7ciRP)
+[![HMI SCADA PLC Communication with Python AI Agent, Deployed Dashboard and Message Notifications](./SCADA-Python-Preview-1.png)](https://youtu.be/GhQWOAVu0G8?si=kV-HB2r8LAheMfra)
 
 ## SCADA Dashboard Simulation with Agent Chatbot and Machine Learning, LSTM Predictions Models, using Gemini-Flash 2.0, Flask, LangChain, TensorFlow and Scikit Learn
 
